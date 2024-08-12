@@ -1,0 +1,72 @@
+.bottom{
+    position:absolute ;
+    height: 700px;
+    left: 0;
+    bottom: -5450px;
+    right: 0;
+    background-color: rgb(44, 44, 44) ;
+
+}
+
+
+.bottom-text1{
+    color: white;
+    font-family: arial;
+    font-weight: bold;
+    font-size: 21px;
+    margin-top: 90px;
+    margin-left: 20px ;
+}
+.bottom-text2{
+    color: rgb(102, 102, 102);
+    margin-left: 20px;
+    font-family: arial;
+    font-size: 20px;
+}
+.bottom-text3{
+    font-family: arial;
+    color: rgb(189, 189, 189);
+    font-size: 22px;
+    margin-left: 20px;
+    margin-top: 45px;
+    font-weight: 550;
+}
+.bottom-text4{
+    font-family: arial;
+    font-size: 19px;
+    color: rgb(189, 189, 189);
+    margin-left: 20px;
+    margin-top: 30px;
+    line-height: 40px;
+}
+.bottom-text6{
+    font-family: arial;
+    font-size: 19px;
+    color: rgb(189, 189, 189);
+    margin-left: 20px;
+    margin-top: 30px;
+}
+
+
+.ear1-logo{
+    width: 100px;
+    margin: 40px 25px;
+}
+.fb-logo{
+    width: 29px;
+    margin: 10px 20px ;
+}
+.inst-logo{
+    width: 36px;
+    margin-left: 20px;
+    margin-bottom: 7px;
+}
+.twt-logo{
+    width: 30px;
+    margin: 9px 20px;
+}
+
+
+.bottom-contents{
+    margin-top: -100px;
+}

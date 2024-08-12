@@ -1,0 +1,35 @@
+.top{
+    height: 100px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    border: solid;
+    border-width: 1px;
+    border-color: limegreen;
+    background-color: white;
+    border-right: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    z-index: 3;
+}
+.left-section{
+    display: flex;
+    align-items: center;
+}
+.ear1{
+    margin-left: 20px;
+    display: inline-block;
+    width: 150px;
+}
+
+
+.right-section{
+    display: flex;
+    align-items: center;
+}
+.menu-icon{
+    margin-right: 20px;
+    width: 50px;
+}

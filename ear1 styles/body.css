@@ -1,0 +1,226 @@
+.imgs{
+    display: flex;
+    flex: 1;
+    flex-direction: row;
+    justify-content: space-between;
+    z-index: 1;
+}
+.logo1{
+    height: 95px;
+    position: absolute;
+    left: 40px;
+}
+.logo2{
+    height: 95px;
+    position: absolute;
+    right: 40px;
+    
+}
+.logo3{
+    height: 95px;
+    position: absolute;
+    left: 300px;
+    bottom: -400px;
+}
+.logo4{
+    height: 95px;
+    position: absolute;
+    right: 300px;
+    bottom: -400px;
+}
+.top2{
+    height: 120px;
+    display: flex;
+    justify-content: space-between;
+    
+
+}
+.bottom2{
+    height: 300px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+
+}
+
+.texts{
+    margin-top: 30px;
+}
+.heading{
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    text-align: center;
+    font-size: 65px;
+}
+.heading2{
+    font-family:Arial;
+    text-align: center;
+    font-weight: lighter;
+    font-size: 31px;
+    color: gray;
+}
+.google-play{
+    height: 90px;
+    padding: 3px 6px;
+    background-color: rgb(16, 175, 16);
+    border: none;
+    width: 240px;
+    border-radius: 5px;
+    margin-left: 150px;
+    margin-top: 10px;
+    cursor: pointer;
+    transition: opacity 0.15s;
+    box-sizing: border-box;
+}
+
+.google-play:hover{
+    opacity: 0.8;
+}
+.google-play:active{
+    opacity: 0.5;
+}
+.button-text1{
+    display: inline-block;
+    line-height: 3px;
+    font-family: Arial;
+    text-align: justify;
+    color: white;
+}
+.get{
+    font-size: 14px;
+    margin-top: 20px;
+
+}
+.Google{
+    font-weight: bold;
+    font-size: 17px;
+}
+.logo{
+    margin-right: 10px;
+    display: inline-block;
+    width: 45px;
+}
+
+.apple{
+    display: block;
+    height: 90px;
+    padding: 3px 6px;
+    background-color: rgb(16, 175, 16);
+    border: none;
+    width: 240px;
+    border-radius: 5px;
+    margin-left: 150px;
+    margin-top: 10px;
+    cursor: pointer;
+    transition: opacity 0.15s;
+}
+.apple:hover{
+    opacity: 0.8;
+}
+.apple:active{
+    opacity: 0.5;
+}
+
+.infos{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 140px;
+
+}
+.write-up{
+    text-align: center;
+}
+.info1{
+    font-weight: bold;
+    font-size: 50px;
+    font-family: arial; 
+
+}
+.info2{
+    font-family: arial;
+    color: gray;
+    font-size: 20px;  
+}
+.pic{
+    display: flex;
+    justify-content: center;
+    margin-top: 90px;
+}
+.pic1{
+    width: 550px;
+}
+.infos2{
+    display: flex;
+    flex-direction: row;
+    justify-content:center;
+    height: 650px;
+    width: 800px;
+    box-sizing: border-box;
+    background-color: limegreen;
+    display: block;
+    border: none;
+    border-radius: 10px;
+    margin: 150px 150px;
+
+}
+
+.heading1{
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: justify;
+    font-size: 50px;
+    color: white;
+    margin-left: 180px ;
+    padding-top: 40px;
+}
+.heading4{
+    font-family:Arial;
+    text-align: justify;
+    font-weight: lighter;
+    font-size: 25px;
+    color: white;
+    margin-left: 180px;
+    margin-top: 20px;
+}
+
+.google-play2{
+    height: 80px;
+    padding: 7px 6px;
+    background-color: darkslategrey;
+    border: none;
+    width: 400px;
+    border-radius: 7px;
+    margin-left: 180px;
+    margin-top: 100px;
+    cursor: pointer;
+    transition: opacity 0.15s;
+}
+
+.google-play2:hover{
+    opacity: 0.8;
+}
+.google-play2:active{
+    opacity: 0.5;
+}
+
+.apple2{
+    display: block;
+    height: 90px;
+    padding: 3px 6px;
+    background-color:darkslategray;
+    border: none;
+    width: 400px;
+    border-radius: 7px;
+    margin-left: 180px;
+    margin-top: 10px;
+    cursor: pointer;
+    transition: opacity 0.15s;
+}
+
+.apple2:hover{
+    opacity: 0.8;
+}
+.apple2:active{
+    opacity: 0.5;
+}
